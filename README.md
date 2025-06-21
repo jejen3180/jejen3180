@@ -38,7 +38,7 @@
 
 ## 🧪 Publications
 
-<p align="center">
+<p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=XLgtGmEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
