@@ -1,5 +1,9 @@
-<h1 align="center"><span style="color:#1DA1F2">Januar Alamien</span></h1>
-<h3 align="center">🚀 Machine Learning | 🛡️ Cybersecurity | 📊 Data Enthusiast</h3>
+<p align="center">
+  <img src="https://i.imgur.com/YOUR-BANNER-ID.png" alt="Jejen's GitHub Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm <span style="color:#1DA1F2">Jejen Januar Alamien</span></h1>
+<h3 align="center">🚀 Machine Learning | 🛡️ Cybersecurity | 📋 Data Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Cybersecurity+Engineer;ML-powered+NIDS+Developer;Python+%7C+Pandas+%7C+Sklearn+%7C+Jupyter;Dataset:+UNSW+NB15+%7C+NSL-KDD+%7C+Bot-IoT" alt="Typing SVG" />
@@ -19,34 +23,25 @@
 
 ---
 
+## 🚀 About Me
 
-<h1 align="center">Hi 👋, I'm Jejen Januar Alamien</h1>
-<h3 align="center">Cybersecurity & Machine Learning Enthusiast</h3>
-
----
-
-🔭 I’m currently working on:
-- Network Intrusion Detection Systems (NIDS) using ML/DL
-- Dataset: UNSW-NB15, NSL-KDD, KDDCup99, Bot-IoT
-
-🌱 I’m currently learning:
-- Deep Learning for anomaly detection
-- Python automation for cybersecurity
-
-👯 I’m open to collaborate on:
-- Cybersecurity research
-- Machine learning for real-world threats
-
-📫 How to reach me:
-- Email: januaralamien3@gmail.com
-- GitHub: [jejen3180](https://github.com/jejen3180)
-
-⚡ Fun fact:
-> I’m passionate about turning data into defense.
+- 🔹 Currently building **Machine Learning-based NIDS (Network Intrusion Detection Systems)**
+- 🔹 Exploring **deep learning** and **cybersecurity data analytics**
+- 🔹 Working with datasets: `UNSW-NB15`, `NSL-KDD`, `KDDCup99`, `Bot-IoT`
+- 💌 Open to research or freelance collaboration!
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jejen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejen3180&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jejen3180&layout=compact)](https://github.com/jejen3180)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jejen3180&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejen3180&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+> "Turning cybersecurity data into insights and defense."
+
+---
