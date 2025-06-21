@@ -44,11 +44,6 @@ for topic in ["Teaching", "NIDS", "ML", "Threat Detection"]:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 📊 Certifications
-
-* 🔧 **[Cisco CyberOps Associate](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/cyberops-associate.html)** *(expected/achieved)*
-* 🌐 **Google IT Support Professional Certificate** *(Coursera)*
-* 🗕️ **Machine Learning by Stanford University** *(Andrew Ng)*
 
 ## 🧪 Publications
 
