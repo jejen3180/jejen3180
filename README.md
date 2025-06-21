@@ -38,8 +38,12 @@
 
 ## 🧪 Publications
 
-* 🔬 Alamien, J. J. et al., "Hybrid Deep Learning for Anomaly Detection in IoT Networks," *Journal of Cybersecurity Research*, 2024.
-* 📝 "Effective Feature Selection in NIDS using UNSW-NB15," presented at *International Conf. on AI in Security*, 2023.
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=XLgtGmEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🎨 Featured Projects
 
