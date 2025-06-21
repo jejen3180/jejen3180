@@ -1,3 +1,25 @@
+<h1 align="center">Hi there 👋, I'm <span style="color:#1DA1F2">Jejen Januar Alamien</span></h1>
+<h3 align="center">🚀 Machine Learning | 🛡️ Cybersecurity | 📊 Data Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Cybersecurity+Engineer;ML-powered+NIDS+Developer;Python+%7C+Pandas+%7C+Sklearn+%7C+Jupyter;Dataset:+UNSW+NB15+%7C+NSL-KDD+%7C+Bot-IoT" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/jejen3180">
+    <img src="https://img.shields.io/github/followers/jejen3180?label=Followers&logo=GitHub&style=for-the-badge" />
+  </a>
+  <a href="mailto:januaralamien3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/jejen3180?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-green?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+
 <h1 align="center">Hi 👋, I'm Jejen Januar Alamien</h1>
 <h3 align="center">Cybersecurity & Machine Learning Enthusiast</h3>
 
