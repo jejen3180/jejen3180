@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jejen3180/jejen3180/main/nama_file_banner.png" alt="Jejen Januar Alamien Banner" />
+  <img src="https://github.com/jejen3180/jejen3180/blob/main/ChatGPT%20Image%2021%20Jun%202025%2C%2007.33.08.png" alt="Januar Alamien Banner" />
 </p>
 
 <h1 align="center"> <span style="color:#1DA1F2">Januar Al Amien</span></h1>
