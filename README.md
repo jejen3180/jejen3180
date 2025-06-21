@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jejen3180/jejen3180/main/header_generated_with_header_generator.svg" alt="Banner Jejen" style="width:100%;"/>
+  <img src="https://raw.githubusercontent.com/jejen3180/jejen3180/main/github-header-image.png" alt="Banner Jejen" style="width:100%;"/>
   <h1>Hi 👋, I'm Jejen Januar Alamien</h1>
   <h3>Lecture | Cybersecurity Researcher | ML-Powered NIDS Developer | Data Science Enthusiast</h3>
 </div>
