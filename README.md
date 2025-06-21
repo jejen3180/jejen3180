@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jejen3180/jejen3180/blob/main/ChatGPT%20Image%2021%20Jun%202025%2C%2007.33.08.png" alt="Januar Alamien Banner" />
-</p>
 
 <h1 align="center"> <span style="color:#1DA1F2">Januar Al Amien</span></h1>
 <h3 align="center">🚀 Machine Learning | 🛡️ Cybersecurity | 📋 Data Enthusiast</h3>
