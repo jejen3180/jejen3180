@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/XdEjhB8.png" alt="Jejen's GitHub Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#1DA1F2">Jejen Januar Alamien</span></h1>
 <h3 align="center">🚀 Machine Learning | 🛡️ Cybersecurity | 📋 Data Enthusiast</h3>
