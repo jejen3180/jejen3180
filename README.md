@@ -14,16 +14,6 @@
 
 ---
 
-## 🚀 About Me
-
-* 👨‍🏫 Lecturer in **Artificial Intelligence and Cybersecurity**
-* 🛡️ Cybersecurity Enthusiast with a focus on **Network Intrusion Detection Systems (NIDS)**
-* 🤖 Experienced in working with datasets like **UNSW-NB15**, **NSL-KDD**, **Bot-IoT**, **KDD CUP 99**, and **UNB CIC IoT**
-* 🎨 Passionate about turning complex data into actionable insight with **Machine Learning** and **Python**
-* ✍️ Contributor to academic journals & conferences in **AI & Cybersecurity**
-* 📚 Researcher at the intersection of **AI, Security, and Education**
-* 🚀 Always learning and exploring new frontiers in **AI & Network Security**
-
 ## 🔧 Tech Stack
 
 <p>
@@ -34,6 +24,16 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+## 🚀 About Me
+
+* 👨‍🏫 Lecturer in **Artificial Intelligence and Cybersecurity**
+* 🛡️ Cybersecurity Enthusiast with a focus on **Network Intrusion Detection Systems (NIDS)**
+* 🤖 Experienced in working with datasets like **UNSW-NB15**, **NSL-KDD**, **Bot-IoT**, **KDD CUP 99**, and **UNB CIC IoT**
+* 🎨 Passionate about turning complex data into actionable insight with **Machine Learning** and **Python**
+* ✍️ Contributor to academic journals & conferences in **AI & Cybersecurity**
+* 📚 Researcher at the intersection of **AI, Security, and Education**
+* 🚀 Always learning and exploring new frontiers in **AI & Network Security**
 
 
 ## 🧪 Publications
