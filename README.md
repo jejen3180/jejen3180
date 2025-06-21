@@ -24,15 +24,6 @@
 * 📚 Researcher at the intersection of **AI, Security, and Education**
 * 🚀 Always learning and exploring new frontiers in **AI & Network Security**
 
-
-## 🧠 Live Typing Effect (Animated Bio)
-
-```python
-print("Cybersecurity meets AI.")
-for topic in ["Teaching", "NIDS", "ML", "Threat Detection"]:
-    print(f"Exploring {topic}... 🚀")
-```
-
 ## 🔧 Tech Stack
 
 <p>
