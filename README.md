@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jejen3180/jejen3180/main/nama_file_banner.png" alt="Jejen Januar Alamien Banner" />
+</p>
 
 <h1 align="center"> <span style="color:#1DA1F2">Januar Al Amien</span></h1>
 <h3 align="center">🚀 Machine Learning | 🛡️ Cybersecurity | 📋 Data Enthusiast</h3>
