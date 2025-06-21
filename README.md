@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/jejen3180/jejen3180/main/github-header-image.png" alt="Banner Jejen" style="width:100%;"/>
   <h3>Lecture | Cybersecurity Researcher | ML-Powered NIDS Developer | Data Science Enthusiast</h3>
+  <h3>Universitas Muhammadiyah Riau</h3>
 </div>
 <div align="center">
 <p>
