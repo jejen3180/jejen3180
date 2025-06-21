@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/YOUR-BANNER-ID.png" alt="Jejen's GitHub Banner" width="100%" />
+  <img src="https://i.imgur.com/XdEjhB8.png" alt="Jejen's GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#1DA1F2">Jejen Januar Alamien</span></h1>
