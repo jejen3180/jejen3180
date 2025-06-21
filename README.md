@@ -1,6 +1,5 @@
-
-<div align="center" style="background: linear-gradient(to right, #1f4037, #99f2c8); padding: 30px; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/jejen3180/jejen3180/main/jejen_banner.png" alt="Jejen Januar Alamien Banner" />
+<div align="center">
+  <img src="https://github.com/jejen3180/jejen3180/blob/main/header_generated_with_header_generator.svg" alt="Jejen Januar Alamien Banner" />
   <h1>Hi 👋, I'm Jejen Januar Alamien</h1>
   <h3>Lecture | Cybersecurity Researcher | ML-Powered NIDS Developer | Data Science Enthusiast</h3>
 </div>
@@ -91,15 +90,3 @@ for topic in ["Teaching", "NIDS", "ML", "Threat Detection"]:
 <p align="center">
   <em>Let's secure the future with AI-powered defenses ✨</em>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jejen3180&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejen3180&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-> "Turning cybersecurity data into insights and defense."
-
----
