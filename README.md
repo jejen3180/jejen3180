@@ -1,5 +1,5 @@
 
-<h1 align="center"> <span style="color:#1DA1F2">Januar Alamien</span></h1>
+<h1 align="center"> <span style="color:#1DA1F2">Januar Al Amien</span></h1>
 <h3 align="center">🚀 Machine Learning | 🛡️ Cybersecurity | 📋 Data Enthusiast</h3>
 
 <p align="center">
