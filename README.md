@@ -24,9 +24,6 @@
 * 📚 Researcher at the intersection of **AI, Security, and Education**
 * 🚀 Always learning and exploring new frontiers in **AI & Network Security**
 
-## 📄 Curriculum Vitae
-
-📌 [View Full CV (PDF)](https://github.com/jejen3180/jejen3180/blob/main/JejenJanuar_CV.pdf)
 
 ## 🧠 Live Typing Effect (Animated Bio)
 
