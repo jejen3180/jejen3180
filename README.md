@@ -49,7 +49,7 @@
 ## 🎨 Featured Projects
 
 * [UNSW\_NB15 NIDS System](https://github.com/jejen3180/UNSW_NB15) - Exploratory analysis and classification models for modern network attacks
-* [NSL-KDD Analysis](https://github.com/jejen3180/NSL-KDD) - ML pipeline for intrusion detection on classic dataset
+* [NSL-KDD Analysis](https://github.com/jejen3180/NSL_KDD) - ML pipeline for intrusion detection on classic dataset
 * [IoT Botnet Detection](https://github.com/jejen3180/Bot-IoT) - Feature engineering and model building for IoT threat scenarios
 * [UNB CIC IoT Dataset Analysis](https://github.com/jejen3180/UNB-CIC-IoT) - End-to-end preprocessing and deep learning modeling for IoT traffic anomaly detection
 * [CICIoMT2024 Dataset Analysis](https://github.com/jejen3180/CICIoMT2024). - ML pipeline for intrusion detection on classic dataset
